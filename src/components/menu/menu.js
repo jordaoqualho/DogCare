@@ -9,7 +9,7 @@ const Menu = () => {
   return (
     <header className="flex_center_row">
       <div className="logo">
-        Test.io
+        Dog Care
       </div>
       <div className="menu_list">
         <ul className="flex_center_row">
